@@ -1,1 +1,3 @@
+Es el mismo repositorio que el del tutorial anterior, solo que en un commit subi todos los cambios del tutorial06
+
 https://github.com/JoseDavid10190307/Tutorial_Software_1.git
